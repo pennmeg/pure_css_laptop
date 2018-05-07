@@ -19,6 +19,12 @@ body {
   height: 50%;
   width: 100%;
 }
+p {
+  font-family: 'Patrick Hand SC', cursive;
+  text-transform: uppercase;
+  font-size: 50px;
+  text-align: center;
+}
 #keyboard {
   position: absolute;
   width: 85%;
@@ -81,5 +87,19 @@ body {
   bottom: 6%;
   left: 32.5%;
   background-color: #7F7F7F;
-
+}
+#mouse {
+  position: absolute;
+  height: 25%;
+  width: 10%;
+  right: 10%;
+  background-color: white;
+  border-radius: 20%;
+}
+#mouseKey {
+  position: absolute;
+  height: 20%;
+  width: 5%;
+  left: 47.5%;
+  background-color: #3f3f3f;
 }
