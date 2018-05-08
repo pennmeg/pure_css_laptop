@@ -7,3 +7,4 @@ Part of a monthly goal to create one pure CSS image a day for the remainder of M
 
 Other Pure CSS Images
 * https://github.com/pennmeg/pure_css_image
+* https://github.com/pennmeg/pure_css_corgi
